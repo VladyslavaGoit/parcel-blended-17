@@ -1,0 +1,49 @@
+.cases {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.cases-container {
+  padding-right: 28px;
+  padding-left: 28px;
+}
+
+.cases-subtitle {
+  font-size: 20px;
+  line-height: calc(33 / 20);
+  text-align: center;
+  color: var(--color-text-dark);
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+.cases-title {
+  font-weight: 300;
+  font-size: 38px;
+  line-height: calc(48 / 38);
+  text-align: center;
+  color: var(--color-text-dark);
+  margin-top: 0;
+  margin-bottom: 34px;
+}
+
+.cases-text {
+  line-height: calc(28 / 18);
+  text-align: center;
+  color: var(--color-text-dark);
+  margin-top: 0;
+  margin-bottom: 40px;
+}
+
+.cases-list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+  gap: 8px;
+}
+
+.cases-item {}
+
+.cases-image {}
