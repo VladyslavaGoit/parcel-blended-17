@@ -1,0 +1,33 @@
+.provide-container {
+  display: flex;
+}
+
+.provide {}
+
+.provide-box {
+  background-color: var(--color-accent);
+  padding: 84px 44px 84px 30px;
+}
+
+.provide-image {}
+
+.provide-subtitle {
+  margin: 0 0 5px;
+}
+
+.provide-subtitle,
+.blog-subtitle {
+  font-size: 20px;
+  line-height: calc(33 / 20);
+  color: var(--color-main-light);
+}
+
+.blog-subtitle {
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+.provide-title {
+  margin-top: 0;
+  margin-bottom: 26px;
+}
